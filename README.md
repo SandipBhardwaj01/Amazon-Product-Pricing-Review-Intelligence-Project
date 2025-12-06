@@ -28,17 +28,6 @@ Python was used for **EDA + feature engineering + sentiment analysis**, while **
 
 ---
 
-## 📁 Project Structure
-
-📦 amazon-analytics/
-├── 📄 data_cleaning_notebook.ipynb <- Python EDA + Feature Engineering
-├── 📄 sentiment_analysis.ipynb <- NLP review processing + WordCloud
-├── 📄 amazon_sentiment_ready.csv <- Final dataset used in Power BI
-├── 📊 powerbi_dashboard.pbix <- Interactive BI report
-└── 🖼 amazon_dashboard_final.png <- Final dashboard screenshot
-
----
-
 ## 🔍 Key Insights
 
 ### 1️⃣ Discount vs Popularity
